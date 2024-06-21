@@ -15,7 +15,7 @@ This project presents a comprehensive analysis of e-commerce food delivery platf
 - **Metric Tracking:** Monitoring and reporting of crucial business metrics.
 - **Trend Identification:** Uncovering seasonal trends, restaurant performance, and customer behavior patterns.
 - **Data Visualization:** Interactive visualizations including charts, graphs, pivot tables, and slicers for dynamic filtering and deep drill-down analysis.
-- **Actionable Insights:** Observations and recommendations to support strategic planning and operational improvements.
+- **Key Insights:** Observations and recommendations to support strategic planning and operational improvements.
 
 ## Data Overview and Relationships
 
