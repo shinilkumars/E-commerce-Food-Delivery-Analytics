@@ -56,8 +56,10 @@ Data Dictionary:
 
 ## Technologies Used
 
-- **Excel:** Data cleaning, analysis, modeling, calculated field creation, pivot table creation, and visualization with drill down insights.
-
+**Excel** 
+  - Data cleaning, analysis and modeling. 
+  - Pivot table creation ,calculated field creation and visualization with slicers for drill-down insights.
+  - Lookup functions for data integration.
 ## Key Insights
 
 1. Total revenue is evenly distributed across all four cities, indicating consistent demand for food delivery services.
