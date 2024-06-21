@@ -34,7 +34,7 @@ The analysis is based on a unified dataset integrated from three separate workbo
 - City ID to City Name: One-to-One
 - Restaurant ID to Restaurant Name: One-to-One
 
-Data Dictionary:
+### Data Dictionary:
 
 | Column            | Details                                                     |
 |-------------------|-------------------------------------------------------------|
