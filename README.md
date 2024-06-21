@@ -1,13 +1,13 @@
 # E-commerce Food Delivery Analytics: Driving Business Insights
-This project presents a comprehensive analysis of e-commerce food delivery platform sales data, empowering business leaders with valuable insights and an interactive dashboard to make data-driven decisions. Leveraging Excel's powerful data analysis, modeling, and visualization capabilities, this project offers a deep understanding of food delivery operations.
+This project presents a comprehensive analysis of e-commerce food delivery platform sales data, empowering business leaders with valuable insights and an interactive dashboard to make data-driven decisions. Leveraging Excel's powerful data analysis, modeling, and visualization capabilities, this project offers a deep understanding of food delivery business.
 
 ## Key Features
 
 - **Interactive Dashboard:** Explore key business metrics, trends, and patterns through a visually appealing and user-friendly Excel dashboard.
-- **Data Integration:** Unified data from multiple sources using lookup functions for consistent analysis.
+- **Data Integration:** Unified data from multiple workbooks using lookup functions for consistent analysis.
 - **In-Depth Data Modeling:**
   - Consolidation of data from separate sheets (sales, city IDs, restaurant IDs) into a unified dataset.
-  - Data transformation for optimal analysis, including pivot tables and column unpivoting.
+  - Data transformation for optimal analysis, including pivot tables .
   - Creation of calculated fields like AOV (Average Order Value), average discount, average rating, and average delivery time.
   - Establishment of relationships between data entities (orders to restaurants/cities).
   - Data cleansing to ensure quality and consistency.
@@ -60,6 +60,7 @@ Data Dictionary:
   - Data cleaning, analysis and modeling. 
   - Pivot table creation ,calculated field creation and visualization with slicers for drill-down insights.
   - Lookup functions for data integration.
+
 ## Key Insights
 
 1. Total revenue is evenly distributed across all four cities, indicating consistent demand for food delivery services.
