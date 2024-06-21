@@ -77,6 +77,6 @@ Data Dictionary:
 ## Project Exploration
 
 To explore the project and interact with the dashboard:
-1. Open the Excel workbook file: E-commerce Food Delivery Analytics.xlsx
+1. Open the Excel workbook file: [E-commerce Food Delivery Analytics.xlsx](https://github.com/shinilkumars/E-commerce-Food-Delivery-Analytics/raw/main/E-commerce%20Food%20Delivery%20Analytics.xlsx)
 2. Navigate through different sheets to explore dashboards, visualizations, and pivot tables.
 3. Use slicers for dynamic filtering and in-depth analysis.
