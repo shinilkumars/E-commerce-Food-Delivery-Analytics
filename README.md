@@ -19,9 +19,9 @@ This project presents a comprehensive analysis of e-commerce food delivery platf
 
 ## Data Overview and Relationships
 
-The analysis is based on a unified dataset integrated from three separate sheets:
+The analysis is based on a unified dataset integrated from three separate workbook:
 
-1. **Combined Sales Data:** Order details, revenue, discount, rating, and timing information.
+1. **Combined Sales Data:** Order details,customer details and city details.
 2. **City ID Mapping:** City ID and corresponding city name.
 3. **Restaurant ID Mapping:** Restaurant ID and corresponding restaurant name.
 
