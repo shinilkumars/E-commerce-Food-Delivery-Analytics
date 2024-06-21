@@ -1,4 +1,4 @@
-# E-commerce Food Delivery: Interactive Sales Analysis & Insights
+# E-commerce Food Delivery Analytics: Driving Business Insights
 This project presents a comprehensive analysis of e-commerce food delivery platform sales data, empowering business leaders with valuable insights and an interactive dashboard to make data-driven decisions. Leveraging Excel's powerful data analysis, modeling, and visualization capabilities, this project offers a deep understanding of food delivery operations.
 
 ## Key Features
