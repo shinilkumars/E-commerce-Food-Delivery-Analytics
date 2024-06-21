@@ -52,10 +52,10 @@ Data Dictionary:
 
 ## Dashboards and Visualizations
 
-- **Overall Business Trend:** Trend charts for revenue, orders, AOV, and discount percentage.
+- **Overall Business Trend:** Visualizations for overall business performance metrics.
 - **City-wise Dashboard:** Visualizations for city-wise performance metrics.
 - **Restaurant-wise Dashboard:** Visualizations for restaurant-wise performance metrics.
-- **Key Insights:** Written observations and insights from the analysis.
+- **Key Insights:** Observations and insights from the analysis.
 
 ## Technologies Used
 
